@@ -2,6 +2,9 @@
 
 - 🔭 I’m currently working on mobile game indie project
 - 🌱 I’m currently learning AI automation
+- 💬 Ask me about web, mobile, and game development
+- 📫 How to reach me: johnykaje2005@gmail.com
+- 😄 Pronouns: He/him
 
 <!--
 **ivanvpro/ivanvpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
