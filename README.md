@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on mobile game indie project
+- 🌱 I’m currently learning AI automation
+
 <!--
 **ivanvpro/ivanvpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
